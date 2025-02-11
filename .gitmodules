@@ -1,0 +1,7 @@
+[submodule "themes/hugo-lithium"]
+	path = themes/hugo-lithium
+	url = https://github.com/uncaged-coder/hugo-lithium
+	branch = uncaged-theme
+[submodule "themes/hugo-uncaged"]
+	path = themes/hugo-uncaged
+	url = git@github.com:rdev0x1/uncaged-hugo-theme.git
