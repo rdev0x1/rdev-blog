@@ -34,10 +34,10 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: logo.jpg
     width: 50
   utterances:
-    repo: "rdev0x1/rdev-blog-comment"
+    repo: "rdev0x1/rdev-blog-comments"
     issueTerm: "pathname"
     theme: "github-light"
     crossorigin: "anonymous"
