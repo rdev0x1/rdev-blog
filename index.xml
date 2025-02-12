@@ -6,8 +6,15 @@
     <description>Recent content on Ramon Dev&#39;s blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rdev.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Primacy of Imposition: The Root of Human Conflict</title>
+      <link>https://rdev.pages.dev/2025/the-primacy-of-imposition-the-root-of-human-conflict/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://rdev.pages.dev/2025/the-primacy-of-imposition-the-root-of-human-conflict/</guid>
+      <description>&lt;div id=&#34;introduction-the-essence-of-conflict&#34; class=&#34;section level2&#34;&gt;&#xA;&lt;h2&gt;Introduction: The Essence of Conflict&lt;/h2&gt;&#xA;&lt;p&gt;All human conflict, at its core, revolves around the desire to impose one’s will upon another. Whether the issue appears to stem from a scarcity of resources, fear, insecurity, or divergent viewpoints, the driving force remains one party compelling another to yield. When stripped of its surface complexities, conflict can be seen as a stark struggle to make the world—or another person—bend to our own wishes, regardless of whether those wishes arise from genuine needs or mere preferences.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Starting a Blog with Hugo, R Markdown, and Python (Reticulate)</title>
       <link>https://rdev.pages.dev/2025/starting-a-blog-with-hugo-r-markdown-and-python-reticulate/</link>
@@ -20,7 +27,7 @@
       <link>https://rdev.pages.dev/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       <guid>https://rdev.pages.dev/about/</guid>
-      <description>&lt;p&gt;Hi,&lt;br&gt;&#xA;I&amp;rsquo;m Abdel, also known as Uncaged Coder.&lt;br&gt;&#xA;Don&amp;rsquo;t set your expectations too high for this blog; it serves as a space for me to share my thoughts on a variety of subjects. The focus is primarily on Linux, open-source projects, and other geek-related topics.&lt;br&gt;&#xA;This blog is powered by &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi,&lt;br&gt;&#xA;I&amp;rsquo;m Abdel, also known as Ramon Dev.&lt;br&gt;&#xA;Don&amp;rsquo;t set your expectations too high for this blog; it serves as a space for me to share my thoughts on a variety of subjects. The focus is primarily on Linux, open-source projects, and other geek-related topics.&lt;br&gt;&#xA;This blog is powered by &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

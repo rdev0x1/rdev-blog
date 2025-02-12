@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rdev.pages.dev/fr/categories/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,7 +15,47 @@
                 href="https://rdev.pages.dev/fr/categories/"
                 />
   </url><url>
+    <loc>https://rdev.pages.dev/fr/tags/conflict/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdev.pages.dev/tags/conflict/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdev.pages.dev/fr/tags/conflict/"
+                />
+  </url><url>
+    <loc>https://rdev.pages.dev/fr/tags/ego/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdev.pages.dev/tags/ego/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdev.pages.dev/fr/tags/ego/"
+                />
+  </url><url>
+    <loc>https://rdev.pages.dev/fr/2025/limposition-comme-racine-du-conflit-humain/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdev.pages.dev/2025/the-primacy-of-imposition-the-root-of-human-conflict/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdev.pages.dev/fr/2025/limposition-comme-racine-du-conflit-humain/"
+                />
+  </url><url>
     <loc>https://rdev.pages.dev/fr/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,7 +67,47 @@
                 href="https://rdev.pages.dev/fr/"
                 />
   </url><url>
+    <loc>https://rdev.pages.dev/fr/tags/philosophy/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdev.pages.dev/tags/philosophy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdev.pages.dev/fr/tags/philosophy/"
+                />
+  </url><url>
+    <loc>https://rdev.pages.dev/fr/categories/philosophy/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdev.pages.dev/categories/philosophy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdev.pages.dev/fr/categories/philosophy/"
+                />
+  </url><url>
+    <loc>https://rdev.pages.dev/fr/post/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rdev.pages.dev/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://rdev.pages.dev/fr/post/"
+                />
+  </url><url>
     <loc>https://rdev.pages.dev/fr/tags/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
